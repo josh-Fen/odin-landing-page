@@ -211,5 +211,15 @@ nav a {
     font-size: 18px; 
 }
 
+.footer {
+    background-color: var(--main-dark-blue);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--main-white);
+    word-spacing: 1px;
+}
+
 
 
